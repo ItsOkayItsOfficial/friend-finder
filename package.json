@@ -1,0 +1,25 @@
+{
+  "name": "friend-finder",
+  "version": "3.0.0",
+  "description": "Friend Finder Site for Express and Node",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ItsOkayItsOfficial/friend-finder.git"
+  },
+  "author": "Alex P",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ItsOkayItsOfficial/friend-finder/issues"
+  },
+  "homepage": "https://github.com/ItsOkayItsOfficial/friend-finder#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "jsonfile": "^4.0.0"
+  }
+}

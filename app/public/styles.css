@@ -1,0 +1,40 @@
+/*
+* Author: Alex P
+* Project Name: Friend Finder App - custome css
+* Version: 1.0
+* Date: 10.10.17
+* URL:  github.com/itsokayitsofficial/friend-finder
+*/
+
+
+html,
+body,
+.container,
+.row {
+    height: 100%;
+    width: 100%;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+
+footer {
+    margin-bottom: 0px;
+}
+
+#center {
+    height: 100%;
+    text-align: center;
+}
+
+.row {
+    padding: 15%;
+}
+
+.select {
+    border-radius: 4px;
+    padding: 6px 12px;
+}
